@@ -1,6 +1,6 @@
 ## Part 1. Установка ОС  
 * Вывод версии Ubuntu с помощью команды `cat /etc/issue`  
-![](Screenshots/Part 1.jpg)  
+![](Screenshots/Part 1.png)  
 
 ## Part 2. Создание пользователя  
 * Команда для создания нового пользователя.  
